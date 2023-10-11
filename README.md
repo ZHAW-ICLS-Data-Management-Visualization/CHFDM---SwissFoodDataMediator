@@ -9,3 +9,9 @@ Gestartet wurde der CHFDM, um eine Datenbank für Proteinreiche Lebensmittel DaP
 ## Proprietäre Datenbanken
 
 Einige der verlinkten Datenbanken sind (noch) nicht als offizielle Ontologie-Daten und SPARQL-Endpoints verfügbar. Diese werden für ZHAW-interne Projekte simuliert und an die Studierenden und Forschenden situativ abgegeben.  
+
+# Installation / Verwendung
+
+Um die Daten anzuschauen, zu ergänzen oder zu verändern, empfehlen wir [Protégé](https://protege.stanford.edu/).  
+
+Für unsere Applikationen verwenden wir einen [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/)-Datenbankserver, der die SPARQL-Schnittstellen für die HTML/JS-Frontends bietet.  
