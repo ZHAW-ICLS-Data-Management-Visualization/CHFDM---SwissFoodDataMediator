@@ -1,0 +1,1735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://schema.org/"
+  xmlns:terms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Limabohne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168396"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H743100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13387"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8d92ec13-ae04-4226-9295-4926104eb93b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Macadamianuss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00004093"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170178"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H190100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1170"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Mayonnaise">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301440"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171009"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#X341040"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#771"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Zwiebel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002069"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301704"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G480100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#368"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#d6d481f1-3969-44a2-a59b-3e5c9de7f9b3/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kohlrabi">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002949"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Koriander">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310370"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169997"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R255000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#373"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#2a611c1a-bc1b-4211-a8db-633fa7f5d589/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kelp">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001985"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168457 "/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G001100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13466"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hanfsamen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001949"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170148"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H300000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#14091"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Reispulver">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03309871"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168898"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C350000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#428"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#417d4ced-e3e9-4e6d-a969-4131acc8690b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hafermehl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301312"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#2261421"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C233000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#198"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#634ebede-2080-48e1-98fb-dd413fb03289/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Quinoa">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310193"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168874"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C118000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13394"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Emulgator__Sojalecithin">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03306653"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171426"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H012000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#603"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#6d67aa7e-1e0b-431a-bbcd-aef2492126d1/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Tahini">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003855"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169410"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#Q901000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#408"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#a96d6d97-0d28-4a04-b52a-ab4a36ef095b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Backtriebmittel__Natriumcarbonate">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003186"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#175040"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R421000"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Haselnuss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002932"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170581"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H130000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#270"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Seelachs">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03413876"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173725"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T207100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#754"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ganseei">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002801"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Lamm">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03309498"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#174370"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#U807000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1110"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#200c151c-b3e4-4eb1-90c3-01f21baf02f6/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kreuzkummel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003396"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170923"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R265000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#663"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#2a611c1a-bc1b-4211-a8db-633fa7f5d589/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Farberdistel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002499"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170558"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#Q340000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#589"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Tierprotein_supplement">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03000438"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173177"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M891000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#578"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#82327e6a-17f8-4805-86e4-0b4ea4a6d752/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sorbinsaure">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_35962"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ackerbohne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301227"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168574"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G730000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13387"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#https://v38.ecoquery.ecoinvent.org/Details/LCIA/8342a432-2e5c-4e18-9c3a-390bff06ea89/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Milchpulver">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03542725"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173459"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M843000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#578"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8343e825-9bb0-4d1a-a30c-323a06c3f5e7/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Knoblauch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003582"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169230"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G490000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#356"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Paprikapulver">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301223"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171329"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R251000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#663"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#7ebdd9e1-becd-43f2-a32b-74fb5b2d19fa/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sojabohne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301415"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169282"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G750000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#442"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1f6274b2-57ec-4a58-b021-eba3c3202bde/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kokosnussfett">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310046"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171412"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#Q550000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#601"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#ea6dd58a-cba0-4f0b-a28f-01dce0f142ca/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Konservierungsstoff__Natriumnitrit">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_78870"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1523c482-8bac-46a2-9162-eb62f041fd4e/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kabeljau">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001750"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171955"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T204100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#285"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Weizenmehl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301116"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168944"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C210000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1135"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Erdbeere">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002282"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Apfel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001611"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171689"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#F110100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#378"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#58944dac-1b38-4fbd-89b2-7aae25a98cf9/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kartoffel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301449"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170028"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#K120100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#813"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#314a1885-0e18-4ffe-8bfc-3341671af888/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ente">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03411316"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172410"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#V460100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1109"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#64e424ef-9a23-4661-93b8-6ffc47259b4f/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Maulbeeren">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003134"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Polyphosphate">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_26197"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#d10a590f-77a1-42bb-81c2-0fea44873d71/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hai">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002235"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Tintenfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002273"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Lupine">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002012"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172423"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G700100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1133"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#f2785bfc-161f-4966-966e-777e881258e1/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Weizenstarke">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310075"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168944"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C216000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1135"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Weichweizen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002254"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169720"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C110000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#734"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Emulgator">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03400333"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sonnenblumenkern">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03309990"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170562"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H430000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#281"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#fdda1a49-35e1-4f4e-8b27-593f0fcf16b5/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hafer">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03309855"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168872"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C130000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#198"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#634ebede-2080-48e1-98fb-dd413fb03289/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Peperoni">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003013"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170108"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G543000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#360"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#54986f5e-8bf6-4942-9b0b-e323baf139c9/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Aal">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001826"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Zitrone">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001995"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#167746"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#F601000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#398"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#50e126bb-cfae-4cb9-b81c-6078db9e0dbe/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Gurke">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001795"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Reismehl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03307541"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#790214"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C350000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#428"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#417d4ced-e3e9-4e6d-a969-4131acc8690b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Cashewnuss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001688"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170162"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H170000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#275"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#6613fad0-1caa-4908-9a35-1b31bc2248e0/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Loffelstor">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002076"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kurbis">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002180"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168448"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G581100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#480"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#99fe60ef-3a63-4d2f-9aaf-5cf5e12b0f8c/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Johannisbeere">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03303397"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Truthahn">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002805"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171083"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#V480100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#713"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#64e424ef-9a23-4661-93b8-6ffc47259b4f/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Karotte">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001687"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170393"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G620100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#355"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#873ff5e1-60c7-4a3b-8eba-236f8127c65f/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Vitamin_D">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_27300"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Gewurze">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03304292"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173476"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R200000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#663"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#7ebdd9e1-becd-43f2-a32b-74fb5b2d19fa/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Rohrzucker">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301348"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#167743"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#S112000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#471"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#bf66af1f-a171-41a1-83a0-bfa6ee29d2dc/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Caramelzucker">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03317034"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#167974"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#S011000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#470"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#960ef6c9-5e26-4379-90e7-847e2b0c7caf/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Salz">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_26710"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173468"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R110000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#762"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#4468826d-667b-42ed-912a-d8ec67a4d216/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Weizenprotein__Weizengluten">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310809"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168147"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C555000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#204"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Geliermittel__Pektin">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_17309"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#167682"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R466000"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Apfelessig">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03307916"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173469"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R123100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#568"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#58944dac-1b38-4fbd-89b2-7aae25a98cf9/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Austernseitling">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03411632"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sojaprotein_rehydriert">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169282"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G750000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#442"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1f6274b2-57ec-4a58-b021-eba3c3202bde/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Edelkastanie">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001722"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170575"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H230000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#272"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Buchweizen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03305367"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170286"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C320000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#421"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Maltodextrin">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03544172"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Erdnuss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002099"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#174263"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H110000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#282"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#a6af976a-6e74-4d80-bea5-2c890581683b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Calciumcarbonat">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_3311"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#27b3bc08-b82f-4449-9238-9ef46a6e15ea/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pekannuss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002107"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170182"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H160100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1170"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schwein_Schwarte">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03307782"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168277"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#U608000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1102"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1a0cb9c8-74e3-4528-bff2-872b7b2e8884/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hartweizengriess">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03303411"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169721"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C210000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#423"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Anchovis">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001589"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#174182"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T104000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#414"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#7c2bb0ec-7ba8-492d-a6b6-d6e97b8935e5/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Maisstarke">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03544163"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169694"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C446000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#426"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#ce6fe12e-03e9-4bb2-9ca4-f2b7de85e6ca/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Erbse">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002813"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170419"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G760100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#369"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#416918a5-1194-4073-aaa6-bfea74dbde67/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Forelle">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002319"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173717"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T420100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#289"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#ce4a9c7b-092a-4a99-8699-80d78fb730c7/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kichererbse">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001199"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173756"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H720100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#439"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#f2785bfc-161f-4966-966e-777e881258e1/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Verdickungsmittel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_30618"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#62d77ec2-dfb6-4c19-9be1-3bc518e143da/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hartkase">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001945"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171251"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M300000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#555"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#e59189bd-8d5e-47ca-9b95-31a89186d9ec/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Weichkase">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002252"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172177"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M600000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13391"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#e59189bd-8d5e-47ca-9b95-31a89186d9ec/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Raps">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002700"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172336"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#Q180000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#600"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#31631a66-6e21-4df1-8da0-7ec21788e84b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Stabilisator_Methylcellulose_">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_30618"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Geliermittel__Johannisbrotkernmehl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03303175"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173755"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R465000"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Gemuse">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001261"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170471"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G000000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1152"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#23285afa-c38d-40e6-9b77-c197a99e65a0/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Olivenol">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301826"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#748608"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#Q120000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#591"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#997c5471-9591-451d-b48a-f894e9cdf2dc/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Wild">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001805"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173855"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#V220100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#488"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Shiitake">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03411635"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Rube">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002324"/>
+  </owl:NamedIndividual>
+  <owl:Ontology rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator_one.owl">
+    <owl:versionIRI rdf:resource="https://dapro.opendata.zhaw.ch/releases/2023-01-27/CHFoodDataMediator_one.owl"/>
+    <owl:imports rdf:resource="https://dapro.opendata.zhaw.ch/CHFoodDataMediator_tbox.owl"/>
+    <dc:contributor xml:lang="en">Erich Zbinden, zber</dc:contributor>
+    <terms:license rdf:resource="https://creativecommons.org/licenses/by/3.0"/>
+    <terms:title>CHFoodDataMediator - Crosslinking Food Data</terms:title>
+    <oboInOwl:default-namespace>chfood</oboInOwl:default-namespace>
+  </owl:Ontology>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Branntweinessig">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301233"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173469"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R122000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1694"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#a1fee4a5-d489-4349-8ee9-80710b18c994/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Gerstenmalzextrakt">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301018"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169740"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C548000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#429"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#eccced30-e0d0-4d0c-a98d-b138547548f2/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Broccoli">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003405"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170379"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G312100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#351"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#23285afa-c38d-40e6-9b77-c197a99e65a0/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Roggen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001190"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168884"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C120000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#752"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#58bfbae2-8ca5-4ca1-aa60-7e63bd821776/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Huhnerei">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001275"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171287"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#E110100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#290"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#64e424ef-9a23-4661-93b8-6ffc47259b4f/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Heilbutt">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001942"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Blumenkohl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003410"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169986"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G311100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#350"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#aeb801ba-0ba0-4a7a-8dbb-c7783ba22a99/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Susskartoffel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002297"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168482"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#K420000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13406"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#314a1885-0e18-4ffe-8bfc-3341671af888/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Tomatenmark">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301455"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170459"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R160000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#636"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#3291fe5c-37f9-4b19-ac2a-48dfdf48e97b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Granatapfel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003679"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169134"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#F506000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13882"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#17369112-2475-4f9b-9535-e0cf3e9b8437/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Erbsenfasern">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301300"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170419"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G760100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#369"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#416918a5-1194-4073-aaa6-bfea74dbde67/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Erbsenprotein">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03306694"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170419"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G760100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#369"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#416918a5-1194-4073-aaa6-bfea74dbde67/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ziegenkase">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001129"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173435"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M7A4300"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#528"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hefeprodukt">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310891"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#167717"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R422000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#839"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#ba99c821-e92c-49f6-950a-7a14cbb742c2/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Fisch__unspezifisch_">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03315173"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Crevette">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002239"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#175179"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T753100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#766"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Linsen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301421"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172420"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H730100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#370"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#4-47d2-9b8e-8e3a240822c5/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Zuchetti">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310943"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169291"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G582100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#367"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#99fe60ef-3a63-4d2f-9aaf-5cf5e12b0f8c/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Lauch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003670"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sojaprotein_Isolat">
+    <rdf:type rdf:resource="http://schema.org/ingredients"/>
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA_one.owl#174276"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB_one.owl#H011000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB_one.owl#330774"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT_one.owl#3.8_1f6274b2-57ec-4a58-b021-eba3c3202bde/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310553"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#174276"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H765000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#442"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1f6274b2-57ec-4a58-b021-eba3c3202bde/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Gelberbse">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03412473"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170419"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G760100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13389"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#416918a5-1194-4073-aaa6-bfea74dbde67/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kurbiskern">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03304870"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170556"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H310000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#276"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Thiamin__Vitamin_B1_">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_26948"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R710000"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Gerste">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001191"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170283"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C140000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#429"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#eccced30-e0d0-4d0c-a98d-b138547548f2/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ascorbinsaure_Vitamin_C">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03544483"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R553000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#db672f44-1e3b-458d-9ddc-73613f2cee8a/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Mungobohne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002046"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#174256"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H780000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13387"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8d92ec13-ae04-4226-9295-4926104eb93b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Zwiebelpulver">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301845"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171327"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G480500"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#368"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#d6d481f1-3969-44a2-a59b-3e5c9de7f9b3/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kohl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001016"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Nori">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03315448"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Flunder">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03308789"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Erbsenmehl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03306693"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170419"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G760100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#370"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#416918a5-1194-4073-aaa6-bfea74dbde67/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Adlerfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03308183"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schaf">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002236"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#167634"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#U700100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1110"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#200c151c-b3e4-4eb1-90c3-01f21baf02f6/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Lupinenmehl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Rote_Beete_Pulver">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03316461"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169145"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G613100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#451"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Brotkrumen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03540171"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172686"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#B840200"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#833"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#edb9047a-a6f2-4d14-a56a-444cf7dacf6a/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Chili">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003744"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170106"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R252200"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#663"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#7ebdd9e1-becd-43f2-a32b-74fb5b2d19fa/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Portobellopilz">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003464"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Leinsamen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001859"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169414"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H410000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#277"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#d025920d-7179-45ca-9a20-5c49328ad23f/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#inulin">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_15443"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kokosnuss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03316908"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170169"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H150100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#284"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#a43f9af7-beb6-4608-b3ff-e885a100cfa6/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sojamehl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03302142"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#174275"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H761400"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#996"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1f6274b2-57ec-4a58-b021-eba3c3202bde/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Esel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002446"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Poulet">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001131"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171116"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#V410100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#711"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#64e424ef-9a23-4661-93b8-6ffc47259b4f/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kuhbohne_Augenbohne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001200"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169220"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H700000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13387"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8d92ec13-ae04-4226-9295-4926104eb93b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Taro">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002310"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Avocado">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001625"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pioppinipilz">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003466"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kurbiskerne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03304870"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170556"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H310000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#276"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#84d14230-f8fa-4116-bd18-09cba59b8cfe/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Feta">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00004106"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173420"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M012200"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#549"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kartoffelstarke">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03307543"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168446"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#K230000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#497"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#0aa6a490-be86-44f1-8c17-3b572cfed29c/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Mandel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001587"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170567"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H210000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#273"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#001f9512-227e-46ee-99fe-5b5e241ff155/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kaliumchlorid">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_32588"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#2c92cfa4-b659-461e-99e2-4e3e2f889a6e/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Currypulver">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301842"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170924"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R289000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#663"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#7ebdd9e1-becd-43f2-a32b-74fb5b2d19fa/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Reis">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001185"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169760"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C350000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#428"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#417d4ced-e3e9-4e6d-a969-4131acc8690b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pferd">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001952"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#175086"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#V110100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#685"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Adzukibohne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002431"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173727"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H700000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13387"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8d92ec13-ae04-4226-9295-4926104eb93b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schweinefleisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001132"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#167902"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#U500100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1102"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1a0cb9c8-74e3-4528-bff2-872b7b2e8884/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Speck">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301955"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168277"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#W412000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#704"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1a0cb9c8-74e3-4528-bff2-872b7b2e8884/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Huhnereiweiss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03305612"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#323793"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#E103500"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#411"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#64e424ef-9a23-4661-93b8-6ffc47259b4f/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pinienkern">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003115"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170591"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H320000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#283"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ananas">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002119"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Chiasamen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002961"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170554"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H300000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13457"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Olive">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002066"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Amaranth">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001167"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170682"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C335000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13397"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Vitamin_B2">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_17015"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Karpfen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001684"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171952"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T501100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1098"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Champignons">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003463"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168434"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#K701100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#375"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Okra">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002064"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Tomatenpuree">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301457"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170460"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R161200"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#636"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#3291fe5c-37f9-4b19-ac2a-48dfdf48e97b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Heidelbeere">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001656"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Essig">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301705"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172240"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R120000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1693"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#a1fee4a5-d489-4349-8ee9-80710b18c994/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kartoffelpulver">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03306851"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170039"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#X636043"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#497"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#0aa6a490-be86-44f1-8c17-3b572cfed29c/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pufferfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002179"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hibiskus">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_NCBITaxon_47605"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168170"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Blattspinat">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301716"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168462"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G211100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#365"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#753e98aa-7f6e-4008-9734-7a7873d7a4ab/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Rind">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001134"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168608"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#U100100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1103"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#9eceae89-136c-4693-8e56-5d4edb4d88f4/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Gewurzextrakt">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Rande">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001638"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169145"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G613100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#451"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#0b1b4a6b-0e28-4029-bcc5-b600bdddbe4b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Wachtelei">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002181"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pfeffer">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03309928"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170931"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R258000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#7ebdd9e1-becd-43f2-a32b-74fb5b2d19fa/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Mais">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001142"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170288"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C340000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#432"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#f75ba6bf-14a1-4f26-993a-e8a86469aa03/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Palmenherz">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003141"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kuhmilch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03307455"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173454"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M110000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1194"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8343e825-9bb0-4d1a-a30c-323a06c3f5e7/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Weizenfasern">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03307422"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169722"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C110000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#431"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Krill">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001989"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Luzerne_Alfalfa">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001582"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168384"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H640000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13387"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8d92ec13-ae04-4226-9295-4926104eb93b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sardine">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002223"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#175139"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T105100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#757"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Rapsol">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310482"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172336"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#Q180000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#600"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#31631a66-6e21-4df1-8da0-7ec21788e84b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sojaprotein_dehydriert">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03306586"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169282"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G750400"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#442"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#1f6274b2-57ec-4a58-b021-eba3c3202bde/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schnapperfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002246"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Dinkel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003154"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169745"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C236000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1043"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sesam">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03304876"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170150"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H420000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#408"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#a96d6d97-0d28-4a04-b52a-ab4a36ef095b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schafmilch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001043"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170882"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M011000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13384"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Lachs_Wildfang">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03307996"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173686"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T417000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#210"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schafsaitling">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03302296"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#200c151c-b3e4-4eb1-90c3-01f21baf02f6/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Blattkohl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001755"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Makrele">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002015"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#175119"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T107100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1098"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#e2c6d09d-7837-4777-a7b0-e4cb1058d51c/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Entenei">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001822"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Maniok">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003409"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169985"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#K410000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13918"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#314a1885-0e18-4ffe-8bfc-3341671af888/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Thunfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002320"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173706"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T121100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#756"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#ee5c5fe7-b5bd-4d90-af74-a25d9b1b75f5/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Calciumchlorid">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_3312"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Milchsaure">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_78320"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173454"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R551000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1194"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8343e825-9bb0-4d1a-a30c-323a06c3f5e7/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Muschel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001291"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schafskase">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001130"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170882"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M012000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13384"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Chinakohl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003663"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Traubenzucker_Glucose">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03315177"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169655"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#S115100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#768"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#ef12cde5-55bc-4954-990d-dadf177552c8/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Tomate">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001164"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Auster">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001292"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Zackenbarsch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001938"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kuttelfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001799"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kidneybohne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001986"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169213"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H742100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13387"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8d92ec13-ae04-4226-9295-4926104eb93b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Couscous">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03303207"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169699"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C119200"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1610"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Saureregulator__Kaliumhydroxid_">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_32035"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#f2688ec4-ff90-4dfd-b33e-f16eafcfdf10/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Heuschrecke">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03305441"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Senf">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301186"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#172234"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R130000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13464"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#29d38e91-70fc-42fe-bcef-4cfa6ea126d9/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Lachs_Zucht">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003473"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#175167"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T410100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#194"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Mononatriumglutamat">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_18237"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R171000"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Zucker">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03420108"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169655"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#S110000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#470"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#960ef6c9-5e26-4379-90e7-847e2b0c7caf/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#sellerie_getrocknet">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03311578"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169988"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G221100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#357"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#e58379e5-9639-4816-9246-d2e9162d1768/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Mehlwurm">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002524"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Banane">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001628"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Fischeier">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001250"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Zitronensaftkonzentrat">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03302712"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#167748"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#F601000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#605"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#50e126bb-cfae-4cb9-b81c-6078db9e0dbe/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Oktopus">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03316989"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Magnesiumchlorid">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_6636"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Eisen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_131371"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Walnuss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301364"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170187"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H120100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#271"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#a6af976a-6e74-4d80-bea5-2c890581683b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kalb">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001678"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#175290"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#U300100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1106"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#9eceae89-136c-4693-8e56-5d4edb4d88f4/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Stor">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002284"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schalentier__unspezifisch_">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001293"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Rettich">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002184"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Seegras">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03311281"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Barsch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001634"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171948"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#T601100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#765"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ingwer">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001901"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169231"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R211200"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hering">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001950"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ameise">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03412495"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Wasser">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002340"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#173647"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#N110000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#47"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#28a1f204-591a-484c-8dfc-f083ecc6c5b3/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Butterfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03309438"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Steinbeisser">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002366"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Sonnenblumenol">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03310357"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#1750349"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#Q320000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#598"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#de7a6986-7726-4966-bee0-6e3b5af25b59/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Marlin">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002024"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Paranuss">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001663"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170569"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H180000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#279"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Quorn_fusarium_venenatum">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03414943"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169251"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#X510003"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#1128"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kaninchen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002183"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#174347"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#V130100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#686"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Weizen">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03315184"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169721"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C110000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#734"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#939237cc-5514-4966-a378-9be62a5d4818/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Chicoree">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001730"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hirse">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002038"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169702"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#C330000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#422"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#05bd559e-5cce-40b5-8f4c-9c7dfc3eac1a/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Papaja">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002081"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Aroma">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003267"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R300000"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Niacin">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_15940"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Calciumacetat">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_3310"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Kakao">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001215"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#169593"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#S790000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#581"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#40702fe1-4e92-4a8f-9016-387d322c81d5/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Honig">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001178"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Meeresschnecke">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002244"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schellfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001941"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Birne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002101"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Jackfruit">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003456"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Krebs">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001785"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Federkohl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03304859"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#168421"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G322100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#13400"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#0218d39d-063b-4c9d-a907-e2968ffe0917/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pastinake">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002085"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pistazie">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03301825"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170184"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#H250000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#274"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Himbeere">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002190"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Petersilie">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002942"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170416"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G250000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#373"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#2a611c1a-bc1b-4211-a8db-633fa7f5d589/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pike">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002116"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Rosenkohl">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001670"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schwertfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002307"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Jakobsmuschel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002227"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Orange">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002071"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Seeteufel">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001807"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Ziegenmilch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03305803"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#171278"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#M021000"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#528"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Flusskrebs">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001789"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Brombeere">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001653"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Milchfisch">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002037"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pintobohne">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002122"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/FDCNALUSDA.owl#170086"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#G710100"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/CHNDB.owl#353"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/ECOINVENT.owl#8d92ec13-ae04-4226-9295-4926104eb93b/290c1f85-4cc4-4fa1-b0c8-2cb7f4276dce"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Hummer">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002007"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Meerrettich">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001953"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Schnecke">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_03411455"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Pangasius">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_8000"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Vitamin_B12">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/CHEBI_176843"/>
+    <rdfs:isDefinedBy rdf:resource="http://dapro.opendata.zhaw.ch/BLSDB.owl#R710000"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Riesencrevette">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001993"/>
+  </owl:NamedIndividual>
+  <owl:NamedIndividual rdf:about="http://dapro.opendata.zhaw.ch/CHFoodDataMediator.owl#Aubergine">
+    <rdf:type rdf:resource="http://schema.org/ingredient"/>
+    <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001830"/>
+  </owl:NamedIndividual>
+</rdf:RDF>
