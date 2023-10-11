@@ -1,3 +1,5 @@
+<img src="food-data-submarke_kombi.png" width="50%" alt="Logo">
+
 # CHFDM - SwissFoodDataMediator
 
 Diese Ontologie-Datei bildet die Basis für den Swiss Food Data Mediator. Sie verknüpft Daten aus verschiedenen Lebensmittel-Ontologien und erlaubt es so, SPARQL-Abfragen über diese verschiedenen Aspekte von Lebensmitteln laufen zu lassen.  
