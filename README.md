@@ -1,6 +1,8 @@
 # CHFDM - SwissFoodDataMediator
 
-Diese Ontologie-Datei bildet die Basis für den Swiss Food Data Mediator. Sie verknüpft Daten aus verschiedenen Lebensmittel-Ontologien und erlaubt es so, SPARQL-Abfragen über diese verschiedenen Aspekte von Lebensmitteln laufen zu lassen. Gesartet wurde der CHFDM, um eine Datenbank für Proteinreiche Lebensmittel DaPro abzubilden. Diese hat zum Ziel, proteinrieche Alternative zu Fleischprodukten zu finden und zu analysieren.
+Diese Ontologie-Datei bildet die Basis für den Swiss Food Data Mediator. Sie verknüpft Daten aus verschiedenen Lebensmittel-Ontologien und erlaubt es so, SPARQL-Abfragen über diese verschiedenen Aspekte von Lebensmitteln laufen zu lassen.
+
+Gestartet wurde der CHFDM, um eine Datenbank für Proteinreiche Lebensmittel DaPro abzubilden. Diese hat zum Ziel, proteinreiche Alternative zu Fleischprodukten zu finden und zu analysieren.
 
 ## proprietäre Datenbanken
 
