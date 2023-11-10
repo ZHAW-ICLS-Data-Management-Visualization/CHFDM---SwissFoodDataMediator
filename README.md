@@ -16,4 +16,4 @@ Um die Daten anzuschauen, zu ergänzen oder zu verändern, empfehlen wir [Proté
 
 Für unsere Applikationen verwenden wir einen [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/)-Datenbankserver, der die SPARQL-Schnittstellen für die HTML/JS-Frontends bietet.  
 
-[github.io](https://zhaw-icls-data-management-visualization.github.io/CHFDM---SwissFoodDataMediator/) of this site
+[github.io](https://zhaw-icls-data-management-visualization.github.io/CHFDM---SwissFoodDataMediator/index_githubio.htm) of this site
