@@ -14,13 +14,13 @@ Einige der verlinkten Datenbanken sind (noch) nicht als offizielle Ontologie-Dat
 
 Um die Daten lokal anzuschauen, zu ergänzen oder zu verändern, empfehlen wir [Protégé](https://protege.stanford.edu/).  
 
-Für unsere Browser-Applikationen verwenden wir einen [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/)-Datenbankserver, der die SPARQL-Schnittstellen für die HTML/JS-Frontends bietet. Er kann von der [offiziellen Webseite heruntergeladen (zip, Apache Jena Fuseki 4.10.0)](https://dlcdn.apache.org/jena/binaries/apache-jena-fuseki-4.10.0.zip) werden. Die "Installation" geschiet durch einfaches entpacken des zip-Files, z.B. nach "C:\Daten\JenaFuseki\"   
+Für unsere Browser-Applikationen verwenden wir einen **Apache Jena Fuseki**-Datenbankserver, der die SPARQL-Schnittstellen für die HTML/JS-Frontends bietet. Er kann von der [offiziellen Webseite heruntergeladen werden (zip, Apache Jena Fuseki 4.10.0)](https://dlcdn.apache.org/jena/binaries/apache-jena-fuseki-4.10.0.zip). Die "Installation" geschiet durch einfaches entpacken des zip-Files, z.B. nach "C:\Daten\JenaFuseki\".  
 
-Voraussetzung daür ist eine Java-Umgebung, wir empfehlen das Open Java Development Kit (OpenJDK) "Amazon Corretto". Es kann auf der [offiziellen Webseite heruntergeladen (Windows x64 msi, Version 21)](https://corretto.aws/downloads/latest/amazon-corretto-21-x64-windows-jdk.msi) werden.  
+Voraussetzung daür ist eine Java-Umgebung, wir empfehlen das Open Java Development Kit (OpenJDK) **Amazon Corretto**. Es kann auf der [offiziellen Webseite heruntergeladen werden (Windows x64 msi, Version 21)](https://corretto.aws/downloads/latest/amazon-corretto-21-x64-windows-jdk.msi).  
 
-Nachdem das OpenJDK installiert worden ist, kann der Apache Jena Fuseki mit der Batch-Datei "fuseki-server.bat" gestartet werden. Er läuft fortan in einem Kommandozeilen-Fenster und kann mit ``[CTRL]`` + ``[C]`` (2x) gestoppt werden.  
+Nachdem das OpenJDK installiert worden ist, kann der Apache Jena Fuseki mit der Batch-Datei **C:\Daten\JenaFuseki\fuseki-server.bat** gestartet werden. Er läuft fortan in einem Kommandozeilen-Fenster und kann darin mit ``[CTRL]`` + ``[C]`` (2x) gestoppt werden.  
 
-Danach können die Daten von der zur Verfügung gestellten heruntergeladen (z.B. nach "C:\Daten\CHFDM-Daten\") und per [Interface](http://localhost:3030/#/) auf dem lokalen Datenbankserver geladen werden. Es wird dazu ein Dataset "DaPro" angelegt (["new dataset"](http://localhost:3030/#/manage/new)) in welches zu welchem die Daten hinzugefügt werden (["add data"](http://localhost:3030/#/dataset/DaPro/upload)). *Die Links gehen nur, wenn der lokale Server gestartet worden ist.*  
+Danach können die **Daten** von der zur Verfügung gestellten heruntergeladen (z.B. nach "C:\Daten\CHFDM-Daten\") und per [Interface](http://localhost:3030/#/) auf dem lokalen Datenbankserver geladen werden. Es wird dazu ein Dataset "DaPro" angelegt (["new dataset"](http://localhost:3030/#/manage/new)) in welches zu welchem die Daten hinzugefügt werden (["add data"](http://localhost:3030/#/dataset/DaPro/upload)). *Die Links gehen nur, wenn der lokale Server gestartet worden ist.*  
 
 Wenn alles gut lief, kann bereits [das erste SPARQL-Query](http://localhost:3030/#/dataset/DaPro/query) abgesetzt werden:  
 
@@ -36,8 +36,13 @@ Wenn alles gut lief, kann bereits [das erste SPARQL-Query](http://localhost:3030
     } LIMIT 10  
 ---  
 
-Jetzt können die Interfaces aus dem Download-Ordner aufgerufen werden. Dazu werden die .html-Dateien auf ein Browserfenster gezogen. Die Applikation läuft komplett lokal und verwendet den Apache-Jena-Fuseki-Server.
+Gratulation! Wir haben nun eine funktionierende Arbeitsumgebung.  
 
-# Spielwiese
+Jetzt können die **Interfaces** aus dem Ordner "C:\Daten\JenaFuseki\interface" aufgerufen werden. Dazu werden die .html-Dateien auf ein Browserfenster gezogen. Die Applikation läuft komplett lokal und verwendet den Apache-Jena-Fuseki-Server.
+
+Alternativ kann die Schnittstelle per **python-Skript** angesprochen werden. Ein entsprechendes Demo-skript findet sich im Ordner C:\Daten\JenaFuseki\python
+
+
+### Spielwiese intern
 
 [github.io](https://zhaw-icls-data-management-visualization.github.io/CHFDM---SwissFoodDataMediator/index_githubio.htm) of this site
