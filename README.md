@@ -41,8 +41,3 @@ Gratulation! Wir haben nun eine funktionierende Arbeitsumgebung.
 Jetzt können die **Interfaces** aus dem Ordner "C:\Daten\JenaFuseki\interface" aufgerufen werden. Dazu werden die .html-Dateien auf ein Browserfenster gezogen. Die Applikation läuft komplett lokal und verwendet den Apache-Jena-Fuseki-Server.
 
 Alternativ kann die Schnittstelle per **python-Skript** angesprochen werden. Ein entsprechendes Demo-skript findet sich im Ordner C:\Daten\JenaFuseki\python
-
-
-### Spielwiese intern
-
-[github.io](https://zhaw-icls-data-management-visualization.github.io/CHFDM---SwissFoodDataMediator/index_githubio.htm) of this site
